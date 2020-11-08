@@ -12,7 +12,10 @@
 |4 | Forgiving | ready and willing to forgive.("Taylor was in a forgiving mood"), stop feeling angry or resentful towards (someone) for an offence, flaw, or mistake. ("I'll never forgive David for the way he treated her" ) | Old English forgiefan, of Germanic origin, related to Dutch vergeven and German vergeben, and ultimately to for- and give. |
 | 5| Personable | (of a person) having a pleasant appearance and manner.("he was so personable and well-spoken") |  |
 | 6 | Munificent | characterized by or displaying great generosity. ("a munificent [bequest](#bequest)") | late 16th century: from Latin munificent- (stem of munificentior, comparative of munificus ‘bountiful’), from munus ‘gift’. |
-
+| 7 | Mendacious | not telling the truth; lying. |    |
+| 8 |  Nugatory   | of no value or importance. /useless or futile. |   |
+| 9 | Ersatz <b> Similar: </b> artificial, substitute, imitation, synthetic, fake, false, faux  | (of a product) made or used as a substitute, typically an inferior one, for something else./ not real or genuine. |    |
+| 10 | Clandestine | kept secret or done secretively, especially because [illicit](#illicit). |    |
  
  
  
@@ -50,4 +53,9 @@
    
  #### Similar: legacy, inheritance, endowment, estate, heritage, bestowal, bequeathal, settlement, provision, benefaction, gift, present
  <b> Origin : </b> Middle English: from be- ‘about’ + Old English cwis ‘speech’, influenced by bequeath.
+ 
+ 3. ### illicit 
+    forbidden by law, rules, or custom.
+    #### Similar: illegal, unlawful, against the law, outlawed, banned, forbidden, prohibited
+
 
