@@ -16,7 +16,9 @@
 | 8 |  Nugatory   | of no value or importance. /useless or futile. |   |
 | 9 | Ersatz <b> Similar: </b> artificial, substitute, imitation, synthetic, fake, false, faux  | (of a product) made or used as a substitute, typically an inferior one, for something else./ not real or genuine. |    |
 | 10 | Clandestine | kept secret or done secretively, especially because [illicit](#illicit). |    |
- 
+| 11 | Ingenuity <b> Similar </b> creativity, imagination, originality, innovation | the quality of being clever, original, and inventive. |   | 
+| 12 | Implication | the action or state of being involved in something. |   |
+| 13 | obsolete    | no longer produced or used; out of date. |    |
  
  
  
