@@ -19,6 +19,10 @@
 | 11 | Ingenuity <b> Similar </b> creativity, imagination, originality, innovation | the quality of being clever, original, and inventive. |   | 
 | 12 | Implication | the action or state of being involved in something. |   |
 | 13 | obsolete    | no longer produced or used; out of date. |    |
+| 14 | solipsistic |  relating to, or characterized by solipsism or extreme egocentricity |   |
+| 15 | sophomoric | relating to or characteristic of a sophomore. "my sophomoric years" |   |
+| 16 | quixotic   | extremely idealistic; unrealistic and impractical. |   |
+| 17 | undue  | unwarranted or inappropriate because excessive or disproportionate.  |   |
  
  
  
