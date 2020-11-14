@@ -23,6 +23,13 @@
 | 15 | sophomoric | relating to or characteristic of a sophomore. "my sophomoric years" |   |
 | 16 | quixotic   | extremely idealistic; unrealistic and impractical. |   |
 | 17 | undue  | unwarranted or inappropriate because excessive or disproportionate.  |   |
+| 18 | gauntlet | HISTORICAL an armoured glove. the part of a glove covering the wrist. |   |
+| 19 | gamut | the complete range or scope of something. |  |
+| 20 | ape   | a large primate that lacks a tail, including the gorilla, chimpanzees, orangutan, and gibbons., an unintelligent or clumsy person. |    |
+|21  | disclaim  | refuse to acknowledge; deny. |    |
+| 22 | ponderous | slow and clumsy because of great weight. |   |
+| 23 | shabby   | in poor condition through long use or lack of care |    |
+| 24 |  cogent   | (of an argument or case) clear, logical, and convincing. |   |
  
  
  
