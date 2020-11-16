@@ -30,7 +30,19 @@
 | 22 | ponderous | slow and clumsy because of great weight. |   |
 | 23 | shabby   | in poor condition through long use or lack of care |    |
 | 24 |  cogent   | (of an argument or case) clear, logical, and convincing. |   |
- 
+| 25 | purported | appearing or stated to be true, though not necessarily so; alleged. |   |
+|26   | aesthetics | a set of principles concerned with the nature and appreciation of beauty. |  |
+| 27 | cabal | a secret political clique or faction. |  |
+| 28 | hoi-polloi | the masses; the common people. |    |
+| 29 | incendiary  | (of a device or attack) designed to cause fires. |  |
+| 30 | parochial  | relating to a Church parish. |  |
+| 31 | dulcet  |  (especially of sound) sweet and soothing (often used ironically)  |   |
+| 32 |  facile  |  ignoring the true complexities of an issue; superficial. |  |
+| 33  | urbane  | (of a person) courteous and refined in manner.  |    |
+| 34  |  painstaking | done with or employing great care and thoroughnes |  |
+| 35  | sensibilities | the quality of being able to appreciate and respond to complex emotional or aesthetic influences; sensitivity. |   |
+
+
  
  
  
